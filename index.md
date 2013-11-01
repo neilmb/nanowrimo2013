@@ -16,5 +16,5 @@ commercially, and they also must be made available under these same license
 terms.
 
 {% for post in site.posts reversed %}
-+ {{ post.date | date_to_string }} -> [{{ post.title }}]({{ post.url }})
++ {{ post.date | date_to_string }} -> [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 {% endfor %}
