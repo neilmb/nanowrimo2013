@@ -4,7 +4,8 @@ title: NaNoWriMo 2013
 ---
 
 This is Neil Martinsen-Burrell's novel project for NaNoWriMo 2013
-<nanowrimo.org>
+<nanowrimo.org>.  The source code for this work is available on GitHub at
+<http://github.com/neilmb/nanowrimo2013>. 
 
 This content is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA) license
