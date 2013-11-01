@@ -1,0 +1,6 @@
+name: NaNoWriMo 2013
+markdown: redcarpet
+pygments: true
+
+redcarpet:
+  extensions: [smart]
