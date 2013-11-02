@@ -13,10 +13,13 @@ Characters
 Setting
 =======
 
-+ Fredrickton, Iowa: small town, mashup, liberal conservative
++ Fredrickton, Iowa: small town, mashup, liberal/conservative
 
 
 Plot
 ====
 
 Theft or murder?  Both?
+
+Old lady, land deal, county Board of Supervisors, definitely murder.  Who
+died?
