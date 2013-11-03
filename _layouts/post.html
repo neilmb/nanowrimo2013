@@ -8,3 +8,7 @@ layout: default
 </div>
 
 <p class="meta">{{ page.date | date_to_string }} {{page.content | number_of_words}} words</p>
+
+{% if post.next %}
+<p><a href="{{post.next.url}}"> &raquo; {{post.next.title}} </a>
+{% endif %}

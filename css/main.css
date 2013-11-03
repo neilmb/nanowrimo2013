@@ -14,9 +14,10 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font: 24px 'Vollkorn', serif;
+  line-height: 30px;
   text-align: center;
+  text-width: 68em;
 }
 
 h1, h2, h3, h4, h5, h6 {
