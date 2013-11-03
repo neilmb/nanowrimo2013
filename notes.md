@@ -6,8 +6,11 @@ title: Book Notes
 Characters
 ==========
 
-+ Chip: protagonist, detective, male, geek, feminist, misunderstood
-+ Chip's dad
++ Chip Hardwick: protagonist, detective, male, geek, feminist, misunderstood
++ Lurlene Randall
++ Ellen Suffolk
++ Buck Lemaire
++ Don Mockson
 
 
 Setting
