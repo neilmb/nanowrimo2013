@@ -14,14 +14,18 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 24px 'Vollkorn', serif;
+  font-family: 'Vollkorn', serif;
+  font-size: 24px;
   line-height: 30px;
   text-align: center;
-  text-width: 68em;
+  margin-left: 5%;
+  text-width: 90%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%;
+  font-family: Ubuntu, sans-serif;
+}
 
 h1 { 
   margin-bottom: 0.5em;
