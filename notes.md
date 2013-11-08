@@ -28,6 +28,8 @@ Old lady, land deal, county Board of Supervisors, definitely murder.  Who
 died? Don Mockson
 
 Visit to widow?  Visit to Ellen. CR basics with Allison (viral law meme).  Lurlene visit with
-intensification. 
+intensification.
 
 Buck Lemaire confrontation.  Where does he get suspicious?
+
+Visit to police station, nothing happening on investigation
