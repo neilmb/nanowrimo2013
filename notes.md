@@ -38,3 +38,5 @@ Lurlene as sidekick.  Review video tape of open meeting.  Image analysis for
 pulse data.
 
 Run off the road?
+
+Reverse sting on Buck.  Put up phony videos and track it back to him.
