@@ -41,3 +41,5 @@ Run off the road?
 
 Reverse sting on Buck.  Put up phony videos and track it back to him. How do
 you stick it to the company?  Use Lurlene as bait, hack back on Buck.
+
+Companies aren't people.  People are the bad actors.
