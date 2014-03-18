@@ -30,7 +30,7 @@ died? Don Mockson
 Visit to widow DONE.  Visit to Ellen DONE. CR basics with Allison (viral law meme). DONE  Lurlene visit with
 intensification.
 
-Buck Lemaire confrontation.  Where does he get suspicious?
+Buck Lemaire confrontation.  Where does he get suspicious? DONE.
 
 Visit to police station, nothing happening on investigation DONE.
 
@@ -49,3 +49,11 @@ to CR.
 
 Chip underestimates Buck's suspiciousness and he catches Chip out thus
 physical action.
+
+21. Ellen/run off the road
+22. Lurlene
+23. Buck hack
+24. Buck attack
+25. Waiting
+26. Rescue
+27. Wrap-up
