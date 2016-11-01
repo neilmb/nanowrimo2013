@@ -1,7 +1,6 @@
 name: NaNoWriMo 2013
 markdown: redcarpet
-pygments: true
-
+highlighter: rouge
 baseurl: /nanowrimo2013
 
 redcarpet:
