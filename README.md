@@ -1,7 +1,7 @@
 nanowrimo2013
 =============
 
-This is Neil Martinsen-Burrell's novel project for NaNoWriMo 2013
+This is Neil Martinsen-Burrell's novel project for NaNoWriMo 2013/2016
 <nanowrimo.org>.
 
 This content is licensed under the Creative Commons
@@ -27,3 +27,9 @@ to compile a special branch of a software project and publish the resulting
 site on <http://github.io>.  In the case of this book project, there is no
 software project to go with it and it purely consists of the documentation
 branch.
+
+Read it now
+-----------
+
+To read the compiled HTML version of the book, go to
+<http://neilmb.github.io/nanowrimo2013/>.
