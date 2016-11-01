@@ -1,7 +1,3 @@
 name: NaNoWriMo 2013
-markdown: redcarpet
 highlighter: rouge
 baseurl: /nanowrimo2013
-
-redcarpet:
-  extensions: [smart]
