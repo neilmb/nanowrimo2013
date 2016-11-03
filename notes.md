@@ -57,6 +57,8 @@ physical action.
 25. Buck hack
 26. Buck attack
 
-25. Waiting
-26. Rescue
-27. Wrap-up
+27. Waiting
+28. Rescue
+29. Viral Plan
+30. Execution
+31. Wrap-up
