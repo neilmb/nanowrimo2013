@@ -40,10 +40,15 @@ pulse data. DONE
 Run off the road? KINDA DONE
 
 Ellen's videos have endangered species evidence, contrast regulatory approach
-to CR.
+to CR. DONE
 
 Reverse sting on Buck.  Put up phony videos and track it back to him. How do
 you stick it to the company?  Use Lurlene as bait, hack back on Buck.
+
+Send Lurlene with a better network tap into Buck's office to leave it behind.
+Send fake videos from Ellen's drive back to Buck's computer, exploit in
+browser, send broadcast packets out to sniffer. Then connect to sniffer,
+command and control to retrieve video from cache.
 
 Companies aren't people.  People are the bad actors.
 
